@@ -1,0 +1,1 @@
+{"uuid":"efae23b6-ccf5-4817-9a75-b42d2490abca","name":"Default Suite","children":["710e18c1-9511-46c0-8e48-7cda097d1168"],"befores":[],"afters":[{"name":"cleanUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1578896064587,"stop":1578896064892}],"links":[],"start":1578896064224,"stop":1578896064892}
